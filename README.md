@@ -11,7 +11,8 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 ## General Information
 -  train.csv is the dataset used
--  Madhu Venugopal.jpynb is the notebook
+-  Madhu Venugopal.jpynb is the code
+-  Madhu Venugopal.pdf 
 -  
 -  
  
